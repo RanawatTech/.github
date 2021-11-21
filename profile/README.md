@@ -1,12 +1,6 @@
-## Hi there 👋
+RWT is a front-end development and user experience (UI/UX) community. We're on a quest to build a considerable learning and growing environment for designers and engineers. Here, learners and mentors from all backgrounds can collaborate on exciting front-end projects to create a seamless user experience.
+RWT is enhancing front-end apps in more than 10+ programming languages front-end frameworks and attempting to deliver the most satisfactory product design solution for other open source communities. Suppose you enjoy combining design, technology, and programming to create the most incredible possible user experiences. In that case, this is the organization for you.
+With its varied range of projects and source codes, RWT has something for everyone. It saves you time and gives a smooth and high-fidelity solution to other developers.
+RWT can assist you with getting started with front-end development and UI/UX right now!
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+JOIN US IN OUR MISSION OF NO-CODE OPEN SOURCE CONTRIBUTION, AND LET'S MAKE IT BIG.
