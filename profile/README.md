@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/Dezenix">
+<a href="https://github.com/RanawatTech">
 <img src="https://user-images.githubusercontent.com/79747022/141722871-ae246f3e-bdff-4688-a293-3254271a67df.gif"></a>
 </div>
 
